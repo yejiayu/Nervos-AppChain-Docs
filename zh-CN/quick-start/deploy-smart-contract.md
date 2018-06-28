@@ -76,7 +76,7 @@ solcjs --bin --abi HelloWorld.sol
 
 我们使用Java版的Nervos web3打包了一个小工具来帮助你部署合约，你可以在`java-deploy`目录下找到。
 
-> 如果你的电脑没有java环境，你可能不是开发人员，找你们组开发人员布合约吧。
+> 如果你的电脑没有java环境，你可能不是开发人员，找你们组开发人员部合约吧。
 
 首先打开`config.properties`，将之前得到的合约二进制码和abi填入，例如
 ```
